@@ -2,7 +2,7 @@
 
 #### A few things about me
 - 💻 Currently working as a Software Engineer at Availity
-- 🔨 I like building tech stuff on my free stuff
+- 🔨 I like to build tech stuff. I like to help people with the tech I build.
 - 🔐 Most of my repos are private (SaaS and Mobile Apps, Cloud stuff)
 
 <!--
