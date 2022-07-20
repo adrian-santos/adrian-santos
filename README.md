@@ -1,4 +1,9 @@
-# Hi there, I'm Adrian 👋
+### Hey there, I'm Adrian 👋
+
+#### A few things about me
+- 💻 Currently working as a Software Engineer at Availity
+- 🔨 I like building tech stuff
+- 🔐 Most of my repos are private (SaaS and Mobile Apps, Cloud stuff)
 
 <!--
 **adrian-santos/adrian-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
